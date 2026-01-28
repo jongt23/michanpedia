@@ -22,6 +22,7 @@ Pero si tienes que usar "el/del" o similares, se usará "Ancar" por ejemplo:
 Por supuesto si en lugar de una casa particulas es un cortijo, una tienda, un comercio, un estercolero, en fin, lo que sea, también vale "ancá" igualmente.
 
 - "En el Kiosco del Koki": Aquí tenemos el comercio y el **del** antes del nombre y sería
+
   - "Ancar Koki"
 
 
