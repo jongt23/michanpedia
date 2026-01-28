@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="assets/logo.png" width="200" />
+  <h1>Bienvenido a la Wiki de los Pibes</h1>
+</div>
+
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
