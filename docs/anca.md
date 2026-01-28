@@ -23,6 +23,6 @@ Por supuesto si en lugar de una casa particular es un cortijo, una tienda, un co
 
 - "En el Kiosco del Koki": Aquí tenemos el comercio y el **del** antes del nombre y sería
 
-  - "Ancar Koki"
+    - "Ancar Koki"
 
 
