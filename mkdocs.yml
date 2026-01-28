@@ -35,7 +35,7 @@ markdown_extensions:
 nav:
   - 🏠 Inicio: index.md
   - 📚 Diccionario: abecedario.md
-  - 💬 Frases Útiles: frases_utiles.md
+  - 💬 Frases Útiles: frases.md
   # - 📖 Historias:
   #     - 🏖️ Viaje a Ibiza: anecdotas/ibiza.md
   #     - ⛷️ La Nieve: anecdotas/nieve.md
