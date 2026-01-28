@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/logo.png" width="200" />
-  <h1>Bienvenido a la Wiki de los Pibes</h1>
+  <h1>Bienvenido a la Wiki según San Michán</h1>
 </div>
 
 # Welcome to MkDocs
