@@ -15,5 +15,5 @@ Sirve para múltiples situaciones y propósitos.
 
 Ejemplo: "Ancá mi tío" 
 
-Pero si tienes que usar "el/del" os imilares, se usará "Ancar" por ejemplo: 
+Pero si tienes que usar "el/del" o similares, se usará "Ancar" por ejemplo: 
 - "En la casa del primo" sería: **"Ancar** primo"
