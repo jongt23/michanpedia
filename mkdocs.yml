@@ -31,3 +31,11 @@ theme:
 markdown_extensions:
   - admonition            # Para notas de advertencia/info
   - attr_list             # Para añadir atributos
+
+nav:
+  - 🏠 Inicio: index.md
+  - 📚 Diccionario: abecedario.md
+  - 💬 Frases Útiles: frases_utiles.md
+  # - 📖 Historias:
+  #     - 🏖️ Viaje a Ibiza: anecdotas/ibiza.md
+  #     - ⛷️ La Nieve: anecdotas/nieve.md
