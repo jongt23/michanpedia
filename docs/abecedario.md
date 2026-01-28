@@ -3,7 +3,7 @@
   <h1>El ABC-Chán</h1>
 </div>
 
-# [Anca}](../docs/anca.md)
+# [Anca](../docs/anca.md)
 
 
 
