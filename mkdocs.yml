@@ -1,10 +1,12 @@
 site_name: MichanPedia
-site_url: https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/
-repo_url: https://github.com/TU-USUARIO/NOMBRE-DEL-REPO/
-repo_name: Editar en GitHub
+site_url: https://jongt23.github.io/michanpedia/
+repo_url: https://github.com/jongt23/michanpedia/
+repo_name: michanpedia
 
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
   language: es
   palette: 
     # Modo claro por defecto
